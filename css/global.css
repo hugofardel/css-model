@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #383842;
+    width: 90%;
+    margin: auto;
+    font-family: Gill Sans Extrabold, sans-serif;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
